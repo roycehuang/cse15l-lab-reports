@@ -26,7 +26,7 @@ Then following steps from the link: https://stackoverflow.com/questions/42606837
 - Click the + icon in the terminal window, the new terminal will now load to a Git Bash terminal
 
 Next remotely connect with the course account we found in step 1:
-- $ ssh cs15lsp23zz@ieng6.ucsd.edu 
+- ```$ ssh cs15lsp23zz@ieng6.ucsd.edu ```
      - don't include the $, convention for command in terminal
      - replace the zz with your account
 
@@ -36,8 +36,8 @@ Next remotely connect with the course account we found in step 1:
 <img width="545" alt="image" src="https://user-images.githubusercontent.com/130111798/230992462-de641f41-8c12-4a26-a0ba-22b05a8dc928.png">
 
 ### 4. Run Commands
-- cd ~ goes into the root directory
-- ls -tal (shown below) 
+- ```cd ~ ``` goes into the root directory
+- ```ls -tal ``` (shown below) 
      - lists all of the files in long format sorted by the time they were edited
  <img width="485" alt="image" src="https://user-images.githubusercontent.com/130111798/230994408-c69d3c8e-875a-4a52-9a2d-1e51f11221b8.png">
 - https://www.inmotionhosting.com/support/server/linux/ls-command/
