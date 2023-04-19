@@ -4,7 +4,6 @@ due Monday, April 10 by 10pm
 ### 1. Finding the CSE15L Course Account
 Using the website https://sdacs.ucsd.edu/~icc/index.php
 - search for course username by putting in your username and student ID (beginning with A or U)
-
   ![image](https://user-images.githubusercontent.com/130111798/230518410-3819df3c-0706-4815-88f7-83216afda1d4.png)
 
 Then click the Additional Account beginning with cs15lsp23 to where the screen will change to: 
@@ -27,6 +26,7 @@ Then following steps from the link: https://stackoverflow.com/questions/42606837
 - Open the command palette (Ctrl + Shift + P)
 - Type "Select Default Profile"
 - Select "Git Bash" from the options
+
  <img width="1057" alt="image" src="https://user-images.githubusercontent.com/130111798/230990499-050ad4a5-3879-407b-ad6e-c560b11ae80e.png">
 - Click the + icon in the terminal window, the new terminal will now load to a Git Bash terminal
 
@@ -34,11 +34,9 @@ Next remotely connect with the course account we found in step 1:
 - ```ssh cs15lsp23zz@ieng6.ucsd.edu ```
      - don't include the $, convention for command in terminal
      - replace the zz with your account
-
 - If you see a message asking to verify yes/no if you want to connecting, say yes it's the first time, but if it's a system you often frequent, it could be someone else trying to control your access 
      - type "yes" and enter
 - Then your screen should look similar to this:
-  
   <img width="545" alt="image" src="https://user-images.githubusercontent.com/130111798/230992462-de641f41-8c12-4a26-a0ba-22b05a8dc928.png">
 
 ### 4. Run Commands
