@@ -22,7 +22,7 @@ The interface should appear as:
 If using a Windows computer, ensure that Git for Windows is installed, if not use the link https://gitforwindows.org/ to install. Mac computers can skip this step.
 
 Then following steps from the link: https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994
-- Open the terminal (Ctrl + Shift + ` )
+- Open the terminal `(Ctrl + Shift + ` )`
 - Open the command palette (Ctrl + Shift + P)
 - Type "Select Default Profile"
 - Select "Git Bash" from the options
